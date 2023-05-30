@@ -12,16 +12,7 @@
 
 <hr>
 
-### Minhas estastísticas
-<div>
-  <a href="https://github.com/GuilhermeCarrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCarrer&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCarrer&layout=compact&langs_count=16&theme=dark"/>
-    </div>
-  
- 
-       
- <hr>
+
  <br>
  <div align="center">
   <a href = "mailto:guilhermecarrerofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
