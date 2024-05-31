@@ -7,7 +7,7 @@
 <hr>
 
 - 🔭 Estou estudando para ser um desenvolvedor
-- 🌱 Estudando HTML/CSS/JavaScript
+- 🌱 Estudando Python
 
 
 <hr>
