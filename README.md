@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Guilherme Carrer 👋
 <hr>   
- Me chamo Guilherme Carrer, estou começando minha jornada na programação com um conhecimento básico da linguagem object pascal com IDE delphi10 e linguagem SQL para manipulação e gerenciamento de dados. Atualmente, além de me aprofundar no que já sei, estou expandindo minha sabedoria em TI, aprendendo linguagens como Java, HTML, CSS e JavaScript.
+ Me chamo Guilherme Carrer, estou começando minha jornada na programação com um conhecimento básico da linguagem object pascal com IDE delphi10 e linguagem SQL para manipulação e gerenciamento de dados. Atualmente, além de me aprofundar no que já sei, estou expandindo minha sabedoria em TI, aprendendo a linguagem Python.
 
 
 
